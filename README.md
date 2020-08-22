@@ -1,4 +1,19 @@
-# Alif documentation
-This repo is the official Alif documentation hosted here: https://www.aliflang.org/docs/
+<div dir="RTL">
 
-All contributions are welcome!.
+# توثيق لغة ألف البرمجية
+تم تحسين موقع من قبل واصل السنكري المهري
+
+# ما الجديد هنا ؟
+ - دعم تنسيق Markdown ...
+ - تحسين في الواجهة موقع التوثيق
+ - سهولة في اضافة الصفحات
+
+# كيف اضيف صفحة للتوثيق؟
+
+الأمر أسهل مما تتخيل :
+ - قم بإنشاء صفحة مارك داوون في ملف **md**
+ - ثم أذهب واضف عنوان صفحتك و القسم الذي ينتمي اليه و طبعا  ملفك الى **database/data.db**
+ 
+ 
+
+</div>

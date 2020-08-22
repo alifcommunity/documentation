@@ -5294,10 +5294,14 @@ body:not(.top-nav).sidebar-opened.sidebar-off-canvas-with-shadow {
 
 body.sidebar-nav .sidebar {
   right: 0; }
-body.sidebar-nav .main {
-  padding-right: 200px; }
-body.sidebar-nav .footer {
-  right: 200px; }
+  body.sidebar-nav .main {
+    margin-right: 200px;
+    background: white;
+    padding: 20px;}
+    body.sidebar-nav .footer {
+      right: 200px;
+      bottom: -50px;
+  }
 
 body.top-nav .layout-toggler {
   display: none !important; }
