@@ -1,0 +1,30 @@
+{
+  "name": "documentation",
+  "version": "1.0.0",
+  "description": "<div dir=\"RTL\">",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alifcommunity/documentation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alifcommunity/documentation/issues"
+  },
+  "homepage": "https://github.com/alifcommunity/documentation#readme",
+  "dependencies": {
+    "nuxt": "^2.15.7"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^4.2.0",
+    "postcss": "^8.3.5"
+  }
+}
