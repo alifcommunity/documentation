@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/alifcommunity/documentation#readme",
   "dependencies": {
+    "@headlessui/vue": "^1.3.0",
+    "@nuxtjs/composition-api": "^0.24.5",
     "nuxt": "^2.15.7"
   },
   "devDependencies": {
